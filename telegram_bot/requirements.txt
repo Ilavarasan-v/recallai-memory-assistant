@@ -1,0 +1,6 @@
+python-telegram-bot==21.0.1
+groq>=0.18.0
+python-dotenv==1.0.1
+chromadb
+sentence-transformers
+streamlit

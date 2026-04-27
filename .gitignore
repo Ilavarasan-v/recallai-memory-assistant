@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.venv/
+*.db
+*.sqlite3
+
+# Environment variables - CRITICAL!
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+memories/
+chroma_db/
+*.pyc
+
+# Logs
+*.log
